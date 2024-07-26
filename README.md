@@ -1,1 +1,1 @@
-Clone of Spotify
+The Spotify Clone project aims to replicate the user interface and experience of the popular music streaming service, Spotify. Built primarily with HTML and CSS, the project focuses on creating a visually similar layout, including elements such as the player, library, and various icons. It serves as a frontend practice project to understand and implement the design aesthetics of a complex application like Spotify.
